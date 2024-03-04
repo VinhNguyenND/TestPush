@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">material_tester</string>
+    <string name="lorem_ipsum">While your app is being used, new information appears on the screen and old information is removed. Changing what shows on the screen immediately can be jarring, and users can miss new content that appears suddenly. Animations slow down the changes and draw the user\'s eye with motion so that the updates are more obvious.A crossfade animation—also known as a dissolve—gradually fades out one View or ViewGroup while simultaneously fading in another. This animation is useful for situations where you want to switch content or views in your app. The crossfade animation shown here uses ViewPropertyAnimator, which is available for Android 3.1 (API level 12) and higher.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">hello</string>
+</resources>
